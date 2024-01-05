@@ -1,0 +1,17 @@
+{
+    "paper": {
+        "paper": 7,
+        "scissors": 0,
+        "rock": 1
+    },
+    "scissors": {
+        "paper": 0,
+        "scissors": 0,
+        "rock": 0
+    },
+    "rock": {
+        "paper": 1,
+        "scissors": 0,
+        "rock": 4
+    }
+}
